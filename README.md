@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Fede
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m Full Stack developer  with a lot of interest in working in a team and consolidating acquired knowledge and learning new ones.
 -  🎭¿Why me? Because I am a proactive person, with excellent technical skills acquired, eager to work as a team, a developer with a great leadership capacity, problem resolution, willing to help and develop as a team, willing to learn and expand my skills.
