@@ -1,14 +1,13 @@
-### Hola 👋, mi nombre es Fede
+Hi 👋, my name is Fede
+🎆 I am a Full Stack Developer. I became interested in programming in 2018, the year I started working as a freelancer. Later, I decided to consolidate my knowledge at the SoyHenry bootcamp, which was fundamental in providing me with the tools necessary to thrive in the job market.
 
-🎆 Soy Full Stack developer, comence a interesar en la programacion en el año 2020, y recien para el año 2022 tome la decision de incursionar en este nuevo mundo. Mis primeros estudios se dieron en el bootcamp de SoyHenry el cual me sirvio muchisimo ya que me brindo las herramientas para poder desenvolverme en el mercado laboral.
+During the course, I acquired and developed new skills in both Front-end and Back-end. I am a proactive and sociable person, always eager to test my acquired knowledge and seek opportunities to further improve my skills.
 
-Durante el curso, pude desarrollar  y adquirir nuevos conocimientos tanto en el Front-end como en el Back-end. Soy una persona proactiva, sociable y con intension de poner a prueba los conocimientos adquiridos y ademas poder obtener mayores habilidades. 
+🌱 Experience 🌱
+I have over a year of experience working as a Full Stack Developer at Henry, where I honed my skills in both Back-end and Front-end. Previously, I worked as a freelancer since 2018, which allowed me to tackle various projects and challenges that enriched my professional profile. Currently, I work for Virtual Sense, applying and expanding my knowledge on challenging projects.
 
-- 🌱 Experiencia 🌱 
-La mayoria de la experiencia , la cual consiste en el ultimo año, en la cual trabaje como FullStack developer in Henry, donde aprendi mis habilidades tanto en Back-end como en Front-end.
-
-- 🔗Mi Objetivo🔗
-Es trabjar en una empresa que me brinde la posibilidad de desenvolverme en buen ambiente de trabajo, donde pueda poner a  prueba mis conocimientos, y aprender nuevas formas de trabajar, garantizandome esto un crecimiento constante en mi productividad.
+🔗 My Objective 🔗
+I would like to continue participating in projects that motivate me professionally, with the possibility of growing further as a developer. I aspire to work in an environment that fosters innovation and collaboration, where I can learn new technologies and methodologies, and make a significant contribution to the success of the team and the company.
 
  
 - 📲Contactame!📲 Linkedin: https://www.linkedin.com/in/federico-saffores-39698615b/  Email:safforesfederico@gmail.com
