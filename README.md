@@ -12,7 +12,7 @@ I would like to continue participating in projects that motivate me professional
  
 - 📲Contactame!📲 Linkedin: https://www.linkedin.com/in/federico-saffores-39698615b/  Email:safforesfederico@gmail.com
 
-Skills: CSS3 / JavaScript / HTML5 / TypeScript / Vercel / Bootstrap /Express.js / jQuery / NodeJS / Redux / React Router / React / Webpack / Postgres / MongoDB  /MySQL /  Postman / Trello
+Skills: CSS3 / JavaScript / HTML5 / TypeScript / Vercel / Bootstrap /Express.js / jQuery / NodeJS / Redux / React / React Native / Flutter / Postgres / MongoDB  /MySQL /  Postman / PHP/ Laravel / Material Ui / Trello / Docker 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/FedeSaffores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/federico-saffores-39698615b//)  
 
